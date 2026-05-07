@@ -1,0 +1,23 @@
+{
+    "siddhart": {
+        "master_hash": "b7d6471154daddfa78850194e713d624161a506fd754225017fb901ed34dad1f",
+        "salt": "61a5c8b80f3e1950f7e676a7c2bb695e",
+        "credentials": [
+            {
+                "site": "www.google.com",
+                "username": "siddhart",
+                "password": "H3qUmG96m0o="
+            },
+            {
+                "site": "www.jecrcerp.com",
+                "username": "24bcon0120",
+                "password": "fCLCzG89wAoylkM="
+            }
+        ]
+    },
+    "siddharthbana_": {
+        "master_hash": "d37f8f27e5651456afc0c6acb6fbfdd4a36ce49b29f0aa70bc5c7a45ffb484e4",
+        "salt": "86bd36722ef9d5cbeeb2cf2a3fa66a82",
+        "credentials": []
+    }
+}
